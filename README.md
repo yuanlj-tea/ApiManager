@@ -36,11 +36,4 @@ source /tmp/db.sql;
 SELECT MD5('your passwd.');
 ```
 
-作者信息
-==========
-* :email:	gongcoder@gmail.com
-* qq:	309581329
 
-最后
-====
-非常欢迎大家贡献代码，让这个项目成长的更好。
